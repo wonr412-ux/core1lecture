@@ -1,5 +1,6 @@
 body {
   background-color: chartreuse;
   min-height: 100vh;
+  text-color:#FFFF99
   font-family:monospace, helvetica, sans-serif;
 }

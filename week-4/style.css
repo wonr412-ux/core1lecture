@@ -1,5 +1,12 @@
 body {
   background-color: chartreuse;
   min-height: 100vh;
+  color:#FFFF99;
   font-family:monospace, helvetica, sans-serif;
+}
+
+h1{
+  font-size:100px;
+  color:black;
+  letter-spacing: 2px;
 }
